@@ -1,5 +1,4 @@
-<img src="IMG_8622.jpg" />
-
+<img src="https://github.com/crankymaracuja/crankymaracuja/blob/master/IMG_8622.jpg" />
 
 ### Hi there 👋
 
