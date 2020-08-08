@@ -1,3 +1,6 @@
+<img src="IMG_8622.jpg" />
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on an animated timeline in plain HTML, JavaScript and CSS.
