@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on an animated timeline in plain HTML, JavaScript and CSS.
+- 🔭 I’m currently working on a jumpStart repo with Angular 10 and Firebase for you 🤗
 - 🌱 I’m currently learning all the great details in JavaScript, TypeScript, Angular, HTML, CSS, ...
 - 🤔 I’m looking for help with designing and animating with CSS in general.
 - 💬 Ask me about JavaScript, TypeScript and Angular.
